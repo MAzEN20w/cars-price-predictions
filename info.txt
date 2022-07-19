@@ -1,0 +1,5 @@
+as the model size is large (neerly 500MB) i couldnt uplode the model on Heroku
+dataset link:
+https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data
+video link:
+https://drive.google.com/file/d/1vjPcxIRe-dzYCBixzIBwYVmS6Dde7I-K/view?usp=sharing
